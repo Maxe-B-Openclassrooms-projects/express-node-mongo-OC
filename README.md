@@ -1,4 +1,5 @@
 # HotTakes
+git clone https://github.com/OpenClassrooms-Student-Center/go-fullstack-v3-fr.git frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
 
