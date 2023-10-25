@@ -7,7 +7,7 @@ const stuffRoutes = require('../routes/stuff.js')
 const userRoutes = require('../routes/user.js');
 
 
-mongoose.connect('mongodb+srv://max:Je5kc1qkRFrWYY0D@cluster0.cxqlesa.mongodb.net/',
+mongoose.connect('mongodb+srv://*********************.mongodb.net/',
     {
         useNewUrlParser: true,
         useUnifiedTopology: true
